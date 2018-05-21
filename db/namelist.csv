@@ -2049,7 +2049,7 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 1971|202985|50002938|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Excoecaria|土沉香屬|Excoecaria formosana|Excoecaria formosana (Hayata) Hayata
 1996|400861|50075640|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Mallotus|野桐屬|Mallotus tiliifolius|Mallotus tiliifolius (Blume) Müll. Arg.
 1989|202999|50075927|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Macaranga|血桐屬|Macaranga sinensis|Macaranga sinensis Baill. ex Müll. Arg.
-1988|202998|12806657|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Liodendron|假黃楊屬|Liodendron formosanum|Liodendron formosanum (Kaneh. & Sasaki ex Shimada) H. Keng
+1988|202998|12806657|Putranjivaceae|非洲核果木科|Euphorbiaceae|大戟科|Liodendron|假黃楊屬|Liodendron formosanum|Liodendron formosanum (Kaneh. & Sasaki ex Shimada) H. Keng
 1987|202997|12800066|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Homonoia|水楊梅屬|Homonoia riparia|Homonoia riparia Lour.
 5733|418322||Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Euphorbia|大戟屬|Euphorbia milii|Euphorbia milii Desm.
 1964|202978|12800154|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Euphorbia|大戟屬|Euphorbia heterophylla|Euphorbia heterophylla L.
@@ -4972,8 +4972,8 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 3936|201741|50112088|Juncaceae|燈心草科|Juncaceae|燈心草科|Juncus|燈心草屬|Juncus ohwianus|Juncus ohwianus M.T. Kao
 3942|201746|16900017|Juncaceae|燈心草科|Juncaceae|燈心草科|Luzula|地楊梅屬|Luzula multiflora|Luzula multiflora (Ehrh.) Lej.
 5569|426892|16900064|Juncaceae|燈心草科|Juncaceae|燈心草科|Juncus|燈心草屬|Juncus marginatus|Juncus marginatus Rostk.
-3846|201829|50125719|Liliaceae|百合科|Liliaceae|百合科|Rohdea|萬年青屬|Rohdea fargesii|Rohdea fargesii (Baill.) Y.F. Deng
-3828|417603|18404854|Liliaceae|百合科|Liliaceae|百合科|Liriope|麥門冬屬|Liriope minor|Liriope minor (Maxim.) Makino
+3846|201829|50125719|Asparagaceae|天門冬科|Liliaceae|百合科|Rohdea|萬年青屬|Rohdea fargesii|Rohdea fargesii (Baill.) Y.F. Deng
+3828|417603|18404854|Asparagaceae|天門冬科|Liliaceae|百合科|Liriope|麥門冬屬|Liriope minor|Liriope minor (Maxim.) Makino
 3825|201809|18402735|Liliaceae|百合科|Liliaceae|百合科|Lilium|百合屬|Lilium formosanum|Lilium formosanum Wallace
 3851|201834|50068325|Liliaceae|百合科|Liliaceae|百合科|Tricyrtis|油點草屬|Tricyrtis formosana var. grandiflora|Tricyrtis formosana var. grandiflora S.S. Ying
 3856|201838|50068328|Liliaceae|百合科|Liliaceae|百合科|Tricyrtis|油點草屬|Tricyrtis suzukii|Tricyrtis suzukii Masam.
