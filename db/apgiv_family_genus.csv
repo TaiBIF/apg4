@@ -499,7 +499,7 @@ sn|family_apgiv|genus_apgiv|genus_zh|genus_accepted|genus_accepted_name
 499|Elaeocarpaceae|Sloanea|猴歡喜屬|t|
 500|Elatinaceae|Bergia|伯格草屬|t|
 501|Elatinaceae|Elatine|溝繁縷屬|t|
-502|Ericaceae|Cheilotheca|水晶蘭屬|t|
+502|Ericaceae|Monotropastrum|水晶蘭屬|t|
 503|Ericaceae|Chimaphila|愛冬葉屬|t|
 504|Ericaceae|Enkianthus|吊鐘花屬|t|
 505|Ericaceae|Gaultheria|白珠樹屬|t|
@@ -707,7 +707,7 @@ sn|family_apgiv|genus_apgiv|genus_zh|genus_accepted|genus_accepted_name
 707|Juglandaceae|Platycarya|化香樹屬|t|
 708|Juncaceae|Juncus|燈心草屬|t|
 709|Juncaceae|Luzula|地楊梅屬|t|
-710|Lamiaceae|Acrocephalus|頂頭花屬|t|
+710|Lamiaceae|Platostoma|頂頭花屬|t|
 711|Lamiaceae|Agastache|藿香屬|t|
 712|Lamiaceae|Ajuga|筋骨草屬|t|
 713|Lamiaceae|Anisomeles|金劍草屬|t|
@@ -1058,7 +1058,6 @@ sn|family_apgiv|genus_apgiv|genus_zh|genus_accepted|genus_accepted_name
 1059|Phyllanthaceae|Glochidion|饅頭果屬|t|
 1060|Phyllanthaceae|Margaritaria|紫黃屬|t|
 1061|Phyllanthaceae|Phyllanthus|油柑屬|t|
-1062|Phyllanthaceae|Sauropus|守宮木屬|t|
 1063|Phyllanthaceae|Synostemon|假葉下珠屬|f|Sauropus
 1064|Phytolaccaceae|Phytolacca|商陸屬|t|
 1065|Piperaceae|Peperomia|椒草屬|t|
@@ -1552,4 +1551,10 @@ sn|family_apgiv|genus_apgiv|genus_zh|genus_accepted|genus_accepted_name
 1554|Taxaceae|Cephalotaxus|三尖杉屬|t|
 1555|Cornaceae|Cornus|山茱萸屬|t|
 1556|Linderniaceae|Micranthemum|珍珠草屬|t|
-(1553 rows)
+1560|Ehretiaceae|Carmona|滿福木屬|f|Ehretia
+1561|Heliotropiaceae|Tournefortia|紫丹屬|f|Heliotropium
+1562|Phyllanthaceae|Synostemon|假葉下珠屬|t|
+1563|Ericaceae|Cheilotheca|水晶蘭屬|f|Monotropastrum
+1564|Lamiaceae|Acrocephalus|頂頭花屬|f|Platostoma
+1565|Asteraceae|Acanthospermum|刺苞果屬|t|
+1566|Asteraceae|Launaea|栓果菊屬|t|

@@ -4,13 +4,13 @@ SELECT
     id,namecode,tropicos_namecode,
     family,family_zh,family_fot,
     family_fot_zh,genus,genus_zh,
-    name,fullname,plant_type
+    name,fullname,plant_type,zh_name
 FROM nomenclature.namelist
     WHERE accepted_id IS NULL order by plant_type,family,fullname;" > ../db/namelist.csv
 
 psql -A -d nvdimp -c "SELECT 
     sn,family_apgiv,genus_apgiv,
-    genus_zh,genus_accepted,genus_accepted_name 
+    genus_zh,genus_accepted,genus_accepted_name
 FROM apgiv_genus order by sn" > ../db/apgiv_family_genus.csv
 
 psql -A -d nvdimp -c "SELECT
