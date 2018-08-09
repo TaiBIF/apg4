@@ -41,7 +41,7 @@ fid|family_subid_apgiv|family_id_lapgiii|order_apgiv|family|family_zh|family_zh_
 40|1|41|Alismatales|Ruppiaceae|流蘇菜科|川蔓藻科|t|40|t
 41|1|42|Alismatales|Cymodoceaceae|絲粉藻科||t|41|t
 42|1|43|Petrosaviales|Petrosaviaceae|櫻井草科||t|42|t
-43|1|44|Dioscoreales|Nartheciaceae|沼金花科|沼金花科|t|43|t
+43|1|44|Dioscoreales|Nartheciaceae|沼金花科||t|43|t
 44|1|45|Dioscoreales|Burmanniaceae|水玉簪科||t|44|t
 45|1|46|Dioscoreales|Dioscoreaceae|薯蕷科||t|45|t
 46|1|47|Pandanales|Triuridaceae|霉草科||t|46|t
@@ -161,7 +161,7 @@ fid|family_subid_apgiv|family_id_lapgiii|order_apgiv|family|family_zh|family_zh_
 160|1|164|Cucurbitales|Anisophylleaceae|異葉木科||f|160|f
 161|1|165|Cucurbitales|Corynocarpaceae|榛果木科|毛利果科|f|161|f
 162|1|166|Cucurbitales|Coriariaceae|馬桑科||t|162|t
-163|1|167|Cucurbitales|Cucurbitaceae|葫蘆科|葫蘆科|t|163|t
+163|1|167|Cucurbitales|Cucurbitaceae|葫蘆科||t|163|t
 164|1|168|Cucurbitales|Tetramelaceae|四數木科||f|164|f
 165|1|169|Cucurbitales|Datiscaceae|疣柱花科|野麻科|f|165|f
 166|1|170|Cucurbitales|Begoniaceae|秋海棠科||t|166|t
@@ -198,7 +198,7 @@ fid|family_subid_apgiv|family_id_lapgiii|order_apgiv|family|family_zh|family_zh_
 197|1|196|Malpighiales|Chrysobalanaceae|可可李科||t|197|t
 198|1|206|Malpighiales|Humiriaceae|樹脂核科|香膏木科|f|198|f
 199|1|204|Malpighiales|Achariaceae|脊臍子科|青鐘麻科|f|199|f
-200|1|202|Malpighiales|Violaceae|堇菜科||t|200|t
+200|1|202|Malpighiales|Violaceae|菫菜科||t|200|t
 201|1|203|Malpighiales|Goupiaceae|毛葯樹科|尾瓣桂科|f|201|f
 202|1|199|Malpighiales|Passifloraceae|西番蓮科||t|202|t
 203|1|200|Malpighiales|Lacistemataceae|裂葯花科|荷包柳科|f|203|f
@@ -232,7 +232,7 @@ fid|family_subid_apgiv|family_id_lapgiii|order_apgiv|family|family_zh|family_zh_
 231|1|244|Huerteales|Gerrardinaceae|柳紅苺科||f|231|f
 232|1|5|Huerteales|Petenaeaceae|紅毛椴科||f|232|f
 233|1|245|Huerteales|Tapisciaceae|癭椒樹科||f|233|f
-234|1|246|Huerteales|Dipentodontaceae|十齒花科|十齒花科|t|234|t
+234|1|246|Huerteales|Dipentodontaceae|十齒花科||t|234|t
 235|1|235|Sapindales|Biebersteiniaceae|熏倒牛科||f|235|f
 236|1|236|Sapindales|Nitrariaceae|白刺科||f|236|f
 237|1|237|Sapindales|Kirkiaceae|稜鏡果科|四合椿科|f|237|f
@@ -267,7 +267,7 @@ fid|family_subid_apgiv|family_id_lapgiii|order_apgiv|family|family_zh|family_zh_
 266|1|269|Brassicales|Gyrostemonaceae|環蕊木科||f|266|f
 267|1|270|Brassicales|Resedaceae|木樨草科||f|267|f
 268|1|271|Brassicales|Capparaceae|山柑科||t|268|t
-269|1|272|Brassicales|Cleomaceae|白花菜科|白花菜科|t|269|t
+269|1|272|Brassicales|Cleomaceae|白花菜科||t|269|t
 270|1|273|Brassicales|Brassicaceae|十字花科||t|270|t
 271|1|274|Berberidopsidales|Aextoxicaceae|毒羊樹科||f|271|f
 272|1|275|Berberidopsidales|Berberidopsidaceae|智利藤科|紅珊藤科|f|272|f
@@ -333,7 +333,7 @@ fid|family_subid_apgiv|family_id_lapgiii|order_apgiv|family|family_zh|family_zh_
 332|1|330|Ericales|Pentaphylacaceae|五列木科||t|332|t
 333|1|331|Ericales|Sapotaceae|山欖科||t|333|t
 334|1|332|Ericales|Ebenaceae|柿樹科||t|334|t
-335|1|333|Ericales|Primulaceae|報春花科|報春花科|t|335|t
+335|1|333|Ericales|Primulaceae|報春花科||t|335|t
 336|1|334|Ericales|Theaceae|茶科|山茶科|t|336|t
 337|1|335|Ericales|Symplocaceae|灰木科|山礬科|t|337|t
 338|1|336|Ericales|Diapensiaceae|岩梅科||t|338|t
@@ -344,7 +344,7 @@ fid|family_subid_apgiv|family_id_lapgiii|order_apgiv|family|family_zh|family_zh_
 343|1|341|Ericales|Clethraceae|山柳科|榿葉樹科|f|343|f
 344|1|342|Ericales|Cyrillaceae|鞣木科||f|344|f
 345|1|343|Ericales|Mitrastemonaceae|奴草科|帽蕊草科|t|345|t
-346|1|344|Ericales|Ericaceae|杜鵑花科|杜鵑花科|t|346|t
+346|1|344|Ericales|Ericaceae|杜鵑花科||t|346|t
 347|1|345|Icacinales|Oncothecaceae|鉤葯茶科||f|347|f
 348|1|347|Icacinales|Icacinaceae|茶茱萸科||t|348|t
 349|1|346|Metteniusales|Metteniusaceae|念珠葯科|水螅花科|f|349|f
@@ -357,21 +357,21 @@ fid|family_subid_apgiv|family_id_lapgiii|order_apgiv|family|family_zh|family_zh_
 356|1|354|Gentianales|Apocynaceae|夾竹桃科||t|356|t
 357|9|356|Boraginales|Lennoaceae|蓋裂寄生科||f|357I|f
 357|8|356|Boraginales|Hydrophyllaceae|水葉草科||f|357H|f
-357|7|356|Boraginales|Hoplestigmataceae|單柱花科||f|357G|f
 357|3|356|Boraginales|Coldeniaceae|生果草科||t|357B|t
 357|6|356|Boraginales|Heliotropiaceae|天芹菜科||t|357E|t
+357|2|356|Boraginales|Codonaceae|刺鐘花科||f|357F|f
+357|7|356|Boraginales|Hoplestigmataceae|單柱花科||f|357G|f
 357|1|356|Boraginales|Boraginaceae|紫草科||t|357|t
 357|4|356|Boraginales|Cordiaceae|破布子科||t|357C|t
 357|5|356|Boraginales|Ehretiaceae|厚殼樹科||t|357D|t
 357|11|356|Boraginales|Wellstediaceae|蒴紫草科||f|357K|f
 357|10|356|Boraginales|Namaceae|壺斗花科||f|357J|f
-357|2|356|Boraginales|Codonaceae|刺鐘花科||f|357F|f
 358|1|355|Vahliales|Vahliaceae|二歧草科|黃漆姑科|f|358|f
 359|1|357|Solanales|Convolvulaceae|旋花科||t|359|t
 360|1|358|Solanales|Solanaceae|茄科||t|360|t
 361|1|359|Solanales|Montiniaceae|扁子木科|瓶頭梅科|f|361|f
 362|1|360|Solanales|Sphenocleaceae|密穗桔梗科|楔瓣花科|t|362|t
-363|1|361|Solanales|Hydroleaceae|田基麻科|田基麻科|t|363|t
+363|1|361|Solanales|Hydroleaceae|田基麻科||t|363|t
 364|1|362|Lamiales|Plocospermataceae|毛子樹科|戴纓木科|f|364|f
 365|1|363|Lamiales|Carlemanniaceae|香茜科||f|365|f
 366|1|364|Lamiales|Oleaceae|木犀科|木樨科|t|366|t
@@ -420,8 +420,9 @@ fid|family_subid_apgiv|family_id_lapgiii|order_apgiv|family|family_zh|family_zh_
 409|1|406|Dipsacales|Caprifoliaceae|忍冬科||t|409|t
 410|1|407|Apiales|Pennantiaceae|澳茱萸科|毛柴木科|f|410|f
 411|1|408|Apiales|Torricelliaceae|鞘柄木科||f|411|f
-412|1|409|Apiales|Griseliniaceae|南茱萸科|南茱萸科|f|412|f
+412|1|409|Apiales|Griseliniaceae|南茱萸科||f|412|f
 413|1|410|Apiales|Pittosporaceae|海桐科||t|413|t
 414|1|411|Apiales|Araliaceae|五加科||t|414|t
 415|1|412|Apiales|Myodocarpaceae|裂果楓科||f|415|f
 416|1|413|Apiales|Apiaceae|繖形科||t|416|t
+(426 rows)
