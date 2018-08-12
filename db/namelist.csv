@@ -244,8 +244,8 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 6777|||Diplaziopsidaceae|腸蕨科|||Diplaziopsis|腸蕨屬|Diplaziopsis javanica|Diplaziopsis javanica (Blume) C. Chr.|2|{腸蕨}
 6778|||Dipteridaceae|雙扇蕨科||雙扇蕨科|Cheiropleuria|燕尾蕨屬|Cheiropleuria integrifolia|Cheiropleuria integrifolia (D.C. Eaton ex Hook.) M. Kato, Y. Yataba, Sahashi & N. Murak.|2|{燕尾蕨}
 6779|||Dipteridaceae|雙扇蕨科||雙扇蕨科|Dipteris|雙扇蕨屬|Dipteris conjugata|Dipteris conjugata Reinw.|2|{雙扇蕨}
-6780|||Dryopteridaceae|鱗毛蕨科||三叉蕨科|Arachniodes|複葉耳蕨屬|Arachniodes amabilis|Arachniodes amabilis (Blume) Tindale|2|{斜方複葉耳蕨}
 6781|||Dryopteridaceae|鱗毛蕨科||三叉蕨科|Arachniodes|複葉耳蕨屬|Arachniodes amabilis|Arachniodes amabilis (Blume) Tindale|2|{屋久複葉耳蕨}
+6780|||Dryopteridaceae|鱗毛蕨科||三叉蕨科|Arachniodes|複葉耳蕨屬|Arachniodes amabilis|Arachniodes amabilis (Blume) Tindale|2|{斜方複葉耳蕨}
 6782|||Dryopteridaceae|鱗毛蕨科||三叉蕨科|Arachniodes|複葉耳蕨屬|Arachniodes aristata|Arachniodes aristata (G. Forst.) Tindale|2|{細葉複葉耳蕨}
 6784|||Dryopteridaceae|鱗毛蕨科||三叉蕨科|Arachniodes|複葉耳蕨屬|Arachniodes chinensis|Arachniodes chinensis (Rosenst.) Ching|2|{中華複葉耳蕨}
 6785|||Dryopteridaceae|鱗毛蕨科||三叉蕨科|Arachniodes|複葉耳蕨屬|Arachniodes festina|Arachniodes festina (Hance) Ching|2|{臺灣兩面複葉耳蕨}
@@ -1048,7 +1048,6 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 2555|202309|1704070|Apiaceae|繖形科|Apiaceae|繖形科|Angelica|當歸屬|Angelica tarokoensis|Angelica tarokoensis Hayata|4|{太魯閣當歸}
 2556|417764|1700014|Apiaceae|繖形科|Apiaceae|繖形科|Apium|芹屬|Apium graveolens|Apium graveolens L.|4|{芹菜}
 2557||1704081|Apiaceae|繖形科|Apiaceae|繖形科|Apium|芹屬|Apium integrilobum|Apium integrilobum Hayata|4|{細葉芹菜}
-2558|202310|1701130|Apiaceae|繖形科|Apiaceae|繖形科|Apium|芹屬|Apium leptophyllum|Apium leptophyllum (Pers.) F. Muell. ex Benth.|4|{薄葉芹菜}
 2559|202311|50003352|Apiaceae|繖形科|Apiaceae|繖形科|Bupleurum|柴胡屬|Bupleurum kaoi|Bupleurum kaoi T.S. Liu, C.Y. Chao & C.C. Chuang|4|{高氏柴胡}
 2560|202312|1700356|Apiaceae|繖形科|Apiaceae|繖形科|Centella|雷公根屬|Centella asiatica|Centella asiatica (L.) Urb.|4|{雷公根}
 2578|202327|50325451|Apiaceae|繖形科|Apiaceae|繖形科|Chaerophyllum|細葉芹屬|Chaerophyllum involucratum|Chaerophyllum involucratum (Hayata) K.F. Chung|4|{山薰香}
@@ -1058,6 +1057,7 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 2562|202314|1704241|Apiaceae|繖形科|Apiaceae|繖形科|Conioselinum|彎柱芎屬|Conioselinum morrisonense|Conioselinum morrisonense Hayata|4|{玉山彎柱芎}
 6006|417815||Apiaceae|繖形科|Apiaceae|繖形科|Coriandrum||Coriandrum sativum|Coriandrum sativum L.|4|{芫荽}
 2563|202315|1701453|Apiaceae|繖形科|Apiaceae|繖形科|Cryptotaenia|鴨兒芹屬|Cryptotaenia japonica|Cryptotaenia japonica Hassk.|4|{鴨兒芹}
+2558|202310|1701130|Apiaceae|繖形科|Apiaceae|繖形科|Cyclospermum|細葉旱芹屬|Cyclospermum leptophyllum|Cyclospermum leptophyllum (Pers.) Sprague ex Britton & P. Wilson|4|{薄葉芹菜}
 5872|417909||Apiaceae|繖形科|Apiaceae|繖形科|Daucus||Daucus carota|Daucus carota L.|4|{胡蘿蔔}
 2564|202316|1700080|Apiaceae|繖形科|Apiaceae|繖形科|Eryngium|刺芹屬|Eryngium foetidum|Eryngium foetidum L.|4|{刺芫荽}
 2565|417972|1700130|Apiaceae|繖形科|Apiaceae|繖形科|Foeniculum|茴香屬|Foeniculum vulgare|Foeniculum vulgare Mill.|4|{茴香,甜茴香}
@@ -1279,8 +1279,8 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 6453|417948||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Bactris||Bactris gasipaes|Bactris gasipaes Kunth|4|{桃椰子}
 5808|425357||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Butia||Butia capitata|Butia capitata (Mart.) Becc.|4|{凍子椰子}
 4554|400880|50291623|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus beccarii|Calamus beccarii A.J. Hend.|4|{土藤}
-4555|201178|2401606|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus formosanus|Calamus formosanus Becc.|4|{臺灣水藤}
 4556|427629|2402126|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus formosanus|Calamus formosanus Becc.|4|{黃藤}
+4555|201178|2401606|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus formosanus|Calamus formosanus Becc.|4|{臺灣水藤}
 4557|201179|2402136|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus siphonospathus var. sublaevis|Calamus siphonospathus var. sublaevis Becc.|4|{蘭嶼省藤}
 6428|418291||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Caryota||Caryota mitis|Caryota mitis Lour.|4|{叢立孔雀椰子}
 6291|417629||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Caryota||Caryota urens|Caryota urens L.|4|{孔雀椰子}
@@ -1599,7 +1599,7 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 3651|416298|2700924|Asteraceae|菊科|Asteraceae|菊科|Hypochaeris|貓兒菊屬|Hypochaeris glabra|Hypochaeris glabra L.|4|{光貓兒菊}
 3652|426853|2722744|Asteraceae|菊科|Asteraceae|菊科|Hypochaeris|貓兒菊屬|Hypochaeris microcephala var. albiflora|Hypochaeris microcephala var. albiflora (Kuntze) Cabrera|4|{白花貓兒菊}
 3653|202505|2700929|Asteraceae|菊科|Asteraceae|菊科|Hypochaeris|貓兒菊屬|Hypochaeris radicata|Hypochaeris radicata L.|4|{貓兒菊}
-6069|429450||Asteraceae|菊科|Asteraceae|菊科|Ixeridium|小苦藚屬|Ixeridium calcicola|Ixeridium calcicola C.-I Peng, S.W.Chung & T.C. Hsu|4|{None}
+6069|429450||Asteraceae|菊科|Asteraceae|菊科|Ixeridium|小苦蕒屬|Ixeridium calcicola|Ixeridium calcicola C.-I Peng, S.W.Chung & T.C. Hsu|4|{太魯閣刀傷草}
 3654|202506|50117677|Asteraceae|菊科|Asteraceae|菊科|Ixeridium|小苦藚屬|Ixeridium laevigatum|Ixeridium laevigatum (Blume) Pak & Kawano|4|{刀傷草}
 3655|202507|50117735|Asteraceae|菊科|Asteraceae|菊科|Ixeridium|小苦藚屬|Ixeridium transnokoense|Ixeridium transnokoense (Sasaki) Pak & Kawano|4|{能高刀傷草}
 3656|202508|2702734|Asteraceae|菊科|Asteraceae|菊科|Ixeris|苦藚菜屬|Ixeris chinensis|Ixeris chinensis (Thunb.) Nakai|4|{兔仔菜}
@@ -2967,8 +2967,8 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 6051|203303||Fagaceae|殼斗科|Fagaceae|殼斗科|Pasania|柯屬|Pasania hancei var. arisanensis|Pasania hancei var. arisanensis (Benth.) Schottky|4|{阿里山三斗石櫟}
 5784|203304||Fagaceae|殼斗科|Fagaceae|殼斗科|Pasania|柯屬|Pasania hancei var. ternaticupula|Pasania hancei var. ternaticupula (Benth.) Schottky|4|{細葉三斗石櫟}
 5804|203313||Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus acutissima|Quercus acutissima Carruth.|4|{麻櫟}
-813|203314|13100183|Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus aliena|Quercus aliena Blume|4|{大槲櫟,槲櫟}
 6139|203316||Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus aliena|Quercus aliena Blume|4|{大槲樹}
+813|203314|13100183|Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus aliena|Quercus aliena Blume|4|{大槲櫟,槲櫟}
 776|Kew-172109|13101199|Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus championii|Quercus championii Benth.|4|{嶺南青剛櫟,嶺南椆}
 815|203317|13100187|Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus dentata|Quercus dentata Thunb.|4|{槲樹}
 777|Kew-172892|13101310|Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus gilva|Quercus gilva Blume|4|{赤皮,赤皮椆}

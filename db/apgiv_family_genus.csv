@@ -1058,7 +1058,6 @@ sn|family_apgiv|genus_apgiv|genus_zh|genus_accepted|genus_accepted_name
 1059|Phyllanthaceae|Glochidion|饅頭果屬|t|
 1060|Phyllanthaceae|Margaritaria|紫黃屬|t|
 1061|Phyllanthaceae|Phyllanthus|油柑屬|t|
-1063|Phyllanthaceae|Synostemon|假葉下珠屬|f|Sauropus
 1064|Phytolaccaceae|Phytolacca|商陸屬|t|
 1065|Piperaceae|Peperomia|椒草屬|t|
 1066|Piperaceae|Piper|胡椒屬|t|
@@ -1486,8 +1485,8 @@ sn|family_apgiv|genus_apgiv|genus_zh|genus_accepted|genus_accepted_name
 1488|Zingiberaceae|Zingiber|薑屬|t|
 1489|Zosteraceae|Zostera|甘藻屬|t|
 1490|Zygophyllaceae|Tribulus|蒺藜屬|t|
-1491|Menispermaceae |Cissampelos|錫生藤屬|t|
-1492|Caryophyllaceae |Polycarpon|多莢草屬|t|
+1491|Menispermaceae|Cissampelos|錫生藤屬|t|
+1492|Caryophyllaceae|Polycarpon|多莢草屬|t|
 1493|Asparagaceae|Liriope|麥門冬屬|t|
 1494|Putranjivaceae|Liodendron|假黃楊屬|f|Drypetes
 1495|Euphorbiaceae|Astraea|裂葉巴豆屬|t|
@@ -1558,3 +1557,4 @@ sn|family_apgiv|genus_apgiv|genus_zh|genus_accepted|genus_accepted_name
 1564|Lamiaceae|Acrocephalus|頂頭花屬|f|Platostoma
 1565|Asteraceae|Acanthospermum|刺苞果屬|t|
 1566|Asteraceae|Launaea|栓果菊屬|t|
+1567|Apiaceae|Cyclospermum|細葉旱芹屬|t|
