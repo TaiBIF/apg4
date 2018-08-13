@@ -1279,8 +1279,8 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 6453|417948||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Bactris||Bactris gasipaes|Bactris gasipaes Kunth|4|{桃椰子}
 5808|425357||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Butia||Butia capitata|Butia capitata (Mart.) Becc.|4|{凍子椰子}
 4554|400880|50291623|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus beccarii|Calamus beccarii A.J. Hend.|4|{土藤}
-4556|427629|2402126|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus formosanus|Calamus formosanus Becc.|4|{黃藤}
 4555|201178|2401606|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus formosanus|Calamus formosanus Becc.|4|{臺灣水藤}
+4556|427629|2402126|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus formosanus|Calamus formosanus Becc.|4|{黃藤}
 4557|201179|2402136|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus siphonospathus var. sublaevis|Calamus siphonospathus var. sublaevis Becc.|4|{蘭嶼省藤}
 6428|418291||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Caryota||Caryota mitis|Caryota mitis Lour.|4|{叢立孔雀椰子}
 6291|417629||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Caryota||Caryota urens|Caryota urens L.|4|{孔雀椰子}
@@ -2402,13 +2402,14 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 4144|201359|9907158|Cyperaceae|莎草科|Cyperaceae|莎草科|Rhynchospora|刺子莞屬|Rhynchospora malasica|Rhynchospora malasica C.B. Clarke|4|{馬來刺子莞}
 4145|201360|9903605|Cyperaceae|莎草科|Cyperaceae|莎草科|Rhynchospora|刺子莞屬|Rhynchospora rubra|Rhynchospora rubra (Lour.) Makino|4|{刺子莞}
 4146|201361|100251635|Cyperaceae|莎草科|Cyperaceae|莎草科|Rhynchospora|刺子莞屬|Rhynchospora rugosa subsp. brownii|Rhynchospora rugosa subsp. brownii (Roem. & Schult.) T. Koyama|4|{布朗氏莞}
-4147|201362|9906113|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectus|擬莞屬|Schoenoplectus juncoides|Schoenoplectus juncoides (Roxb.) Palla|4|{螢藺,大井氏水莞}
-4148|201363|9907406|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectus|擬莞屬|Schoenoplectus lineolatus|Schoenoplectus lineolatus (Franch. & Sav.) T. Koyama|4|{蘭嶼莞,匍伏莞草}
-4149|201364|50093758|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectus|擬莞屬|Schoenoplectus mucronatus subsp. robustus|Schoenoplectus mucronatus subsp. robustus (Miq.) T. Koyama|4|{水毛花}
-4150|201365|100255683|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectus|擬莞屬|Schoenoplectus supinus subsp. lateriflorus|Schoenoplectus supinus subsp. lateriflorus (J.F. Gmel.) Soják|4|{小水莞}
+4147|201362|9906113|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectiella|擬莞舅屬|Schoenoplectiella juncoides|Schoenoplectiella juncoides (Roxb.) Lye|4|{螢藺,大井氏水莞}
+4148|201363|9907406|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectiella|擬莞舅屬|Schoenoplectiella lineolata|Schoenoplectiella lineolata (Franch. & Sav.) Lye|4|{蘭嶼莞,匍伏莞草}
+4149|201364|50093758|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectiella|擬莞舅屬|Schoenoplectiella mucronata subsp. robusta|Schoenoplectiella mucronata (L.) J.Jung & H.K.Choi subsp. robusta (Miq.) T.C.Hsu|4|{水毛花}
+8613|||Cyperaceae|莎草科|||Schoenoplectiella|擬莞舅屬|Schoenoplectiella multiseta|Schoenoplectiella multiseta (Hayasaka & C.Sato) Hayasaka|4|{疏稈水毛花}
+4150|201365|100255683|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectiella|擬莞舅屬|Schoenoplectiella supina subsp. lateriflora|Schoenoplectiella supina (Palla) Lye subsp. lateriflora (J.F.Gmel.) T.C.Hsu|4|{小水莞}
+4153|201368|9906928|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectiella|擬莞舅屬|Schoenoplectiella wallichii|Schoenoplectiella wallichii (Nees) Lye|4|{臺灣水莞,豬毛草}
 4151|201366|9906132|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectus|擬莞屬|Schoenoplectus triqueter|Schoenoplectus triqueter (L.) Palla|4|{蒲,大甲藺,大甲草}
 4152|201367|9904886|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectus|擬莞屬|Schoenoplectus validus|Schoenoplectus validus (Vahl) Á. Löve & D. Löve|4|{莞,水蔥,大水莞}
-4153|201368|9906928|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenoplectus|擬莞屬|Schoenoplectus wallichii|Schoenoplectus wallichii (Nees) T. Koyama|4|{臺灣水莞,豬毛草}
 4154|201369|50004833|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenus|赤箭莎屬|Schoenus apogon|Schoenus apogon Roem. & Schult.|4|{矮赤箭莎}
 4155|201370|9909721|Cyperaceae|莎草科|Cyperaceae|莎草科|Schoenus|赤箭莎屬|Schoenus falcatus|Schoenus falcatus R. Br.|4|{赤箭莎}
 4156|201371|9909781|Cyperaceae|莎草科|Cyperaceae|莎草科|Scirpus|莞屬|Scirpus ternatanus|Scirpus ternatanus Reinw. ex Miq.|4|{大莞草}
@@ -2636,8 +2637,8 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 2014|203021|12800093|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Ricinus|蓖麻屬|Ricinus communis|Ricinus communis L.|4|{蓖麻}
 1975|424583|12807630|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Suregada|白樹屬|Suregada aequorea|Suregada aequorea (Hance) Seem.|4|{白樹仔}
 2015|203022|12806661|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Triadica|烏桕屬|Triadica cochinchinensis|Triadica cochinchinensis Lour.|4|{白桕}
-5208|203023|100254584|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Triadica|烏桕屬|Triadica sebifera|Triadica sebifera (L.) Small|4|{烏桕}
 6299|416430||Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Triadica|烏桕屬|Triadica sebifera|Triadica sebifera (L.) Small|4|{烏臼}
+5208|203023|100254584|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Triadica|烏桕屬|Triadica sebifera|Triadica sebifera (L.) Small|4|{烏桕}
 1926|Kew-5925|12800003|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Vernicia|油桐屬|Vernicia fordii|Vernicia fordii (Hemsl.) Airy Shaw|4|{油桐,三年桐}
 5809|427633||Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Vernicia|油桐屬|Vernicia montana|Vernicia montana Lour.|4|{千年桐}
 1632|203025|13023576|Fabaceae|豆科|Fabaceae|豆科|Abrus|雞母珠屬|Abrus precatorius|Abrus precatorius L.|4|{雞母珠}
@@ -2967,8 +2968,8 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 6051|203303||Fagaceae|殼斗科|Fagaceae|殼斗科|Pasania|柯屬|Pasania hancei var. arisanensis|Pasania hancei var. arisanensis (Benth.) Schottky|4|{阿里山三斗石櫟}
 5784|203304||Fagaceae|殼斗科|Fagaceae|殼斗科|Pasania|柯屬|Pasania hancei var. ternaticupula|Pasania hancei var. ternaticupula (Benth.) Schottky|4|{細葉三斗石櫟}
 5804|203313||Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus acutissima|Quercus acutissima Carruth.|4|{麻櫟}
-6139|203316||Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus aliena|Quercus aliena Blume|4|{大槲樹}
 813|203314|13100183|Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus aliena|Quercus aliena Blume|4|{大槲櫟,槲櫟}
+6139|203316||Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus aliena|Quercus aliena Blume|4|{大槲樹}
 776|Kew-172109|13101199|Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus championii|Quercus championii Benth.|4|{嶺南青剛櫟,嶺南椆}
 815|203317|13100187|Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus dentata|Quercus dentata Thunb.|4|{槲樹}
 777|Kew-172892|13101310|Fagaceae|殼斗科|Fagaceae|殼斗科|Quercus|櫟屬|Quercus gilva|Quercus gilva Blume|4|{赤皮,赤皮椆}
