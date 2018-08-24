@@ -1279,8 +1279,8 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 6453|417948||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Bactris||Bactris gasipaes|Bactris gasipaes Kunth|4|{桃椰子}
 5808|425357||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Butia||Butia capitata|Butia capitata (Mart.) Becc.|4|{凍子椰子}
 4554|400880|50291623|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus beccarii|Calamus beccarii A.J. Hend.|4|{土藤}
-4555|201178|2401606|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus formosanus|Calamus formosanus Becc.|4|{臺灣水藤}
 4556|427629|2402126|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus formosanus|Calamus formosanus Becc.|4|{黃藤}
+4555|201178|2401606|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus formosanus|Calamus formosanus Becc.|4|{臺灣水藤}
 4557|201179|2402136|Arecaceae|棕櫚科|Arecaceae|棕櫚科|Calamus|省藤屬|Calamus siphonospathus var. sublaevis|Calamus siphonospathus var. sublaevis Becc.|4|{蘭嶼省藤}
 6428|418291||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Caryota||Caryota mitis|Caryota mitis Lour.|4|{叢立孔雀椰子}
 6291|417629||Arecaceae|棕櫚科|Arecaceae|棕櫚科|Caryota||Caryota urens|Caryota urens L.|4|{孔雀椰子}
@@ -2525,7 +2525,7 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 2615|202896|50143368|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron chilanshanense|Rhododendron chilanshanense Kurashige|4|{棲蘭山杜鵑}
 5112|422082|12305036|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron farrerae|Rhododendron farrerae Sweet|4|{丁香杜鵑}
 2616|202898|12305053|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron formosanum|Rhododendron formosanum Hemsl.|4|{臺灣杜鵑}
-2617|202899|50002920|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron hyperythrum|Rhododendron hyperythrum Hayata|4|{紅星杜鵑,小西氏杜鵑}
+2628|202899|50002928|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron hyperythrum|Rhododendron hyperythrum Hayata|4|{南湖杜鵑}
 2618|202900|50060744|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron kanehirae|Rhododendron kanehirae Wilson|4|{烏來杜鵑}
 2619|202901|12305057|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron kawakamii|Rhododendron kawakamii Hayata|4|{著生杜鵑}
 2620|430691|50002924|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron lasiostylum|Rhododendron lasiostylum Hayata|4|{埔里杜鵑}
@@ -2536,7 +2536,6 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 2625|202905|50005829|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron oldhamii|Rhododendron oldhamii Maxim.|4|{金毛杜鵑}
 2626|202907|50060643|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron ovatum var. ovatum|Rhododendron ovatum Planch. var. ovatum|4|{馬銀花}
 2627|202906|50281847|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron ovatum var. lamprophyllum|Rhododendron ovatum var. lamprophyllum (Hayata) Y.C. Liu|4|{長卵葉馬銀花}
-2628|202899|50002928|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron pachysanthum|Rhododendron pachysanthum Hayata|4|{南湖杜鵑}
 2629|202908|50005831|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron pseudochrysanthum|Rhododendron pseudochrysanthum Hayata|4|{玉山杜鵑}
 2630|202909|12305077|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron rubropilosum var. rubropilosum|Rhododendron rubropilosum Hayata var. rubropilosum|4|{紅毛杜鵑}
 2631|202910|50152980|Ericaceae|杜鵑花科|Ericaceae|杜鵑花科|Rhododendron|杜鵑花屬|Rhododendron rubropilosum var. taiwanalpinum|Rhododendron rubropilosum var. taiwanalpinum (Ohwi) S.Y. Lu, Y.P. Yang & Y. H. Tseng|4|{臺灣高山杜鵑}
@@ -2637,8 +2636,8 @@ id|namecode|tropicos_namecode|family|family_zh|family_fot|family_fot_zh|genus|ge
 2014|203021|12800093|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Ricinus|蓖麻屬|Ricinus communis|Ricinus communis L.|4|{蓖麻}
 1975|424583|12807630|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Suregada|白樹屬|Suregada aequorea|Suregada aequorea (Hance) Seem.|4|{白樹仔}
 2015|203022|12806661|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Triadica|烏桕屬|Triadica cochinchinensis|Triadica cochinchinensis Lour.|4|{白桕}
-6299|416430||Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Triadica|烏桕屬|Triadica sebifera|Triadica sebifera (L.) Small|4|{烏臼}
 5208|203023|100254584|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Triadica|烏桕屬|Triadica sebifera|Triadica sebifera (L.) Small|4|{烏桕}
+6299|416430||Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Triadica|烏桕屬|Triadica sebifera|Triadica sebifera (L.) Small|4|{烏臼}
 1926|Kew-5925|12800003|Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Vernicia|油桐屬|Vernicia fordii|Vernicia fordii (Hemsl.) Airy Shaw|4|{油桐,三年桐}
 5809|427633||Euphorbiaceae|大戟科|Euphorbiaceae|大戟科|Vernicia|油桐屬|Vernicia montana|Vernicia montana Lour.|4|{千年桐}
 1632|203025|13023576|Fabaceae|豆科|Fabaceae|豆科|Abrus|雞母珠屬|Abrus precatorius|Abrus precatorius L.|4|{雞母珠}
